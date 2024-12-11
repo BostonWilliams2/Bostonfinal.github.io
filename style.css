@@ -1,0 +1,27 @@
+body{
+    background-color:hsl(0, 96%, 52%);
+    text-align: center;
+    color:white;
+}  
+
+h1{
+    border:5px solid white;
+    border-radius: 50px;
+}
+.Joy{
+    height: 300px;
+    width: 300px;
+}
+.cell{
+    height: 300px;
+    width: 300px;
+}
+#logo{
+    border: 3px solid white;
+}
+#Joycons{
+    border: 3px solid blue;
+}
+#cell{
+    border: 6px solid yellow;
+}
